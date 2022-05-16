@@ -1,0 +1,56 @@
+[
+    {
+        "market": "FTX",
+        "symbol": "BTCUSD",
+        "price": 29841.0,
+        "change1h": 0.0138,
+        "change24h": -0.007,
+        "priceMax24h": 31421,
+        "priceMin24h": 29054
+    },
+    {
+        "market": "FTX",
+        "symbol": "ETHUSD",
+        "price": 2031.9,
+        "change1h": 0.0156,
+        "change24h": -0.0222,
+        "priceMax24h": 2162,
+        "priceMin24h": 1976
+    },
+    {
+        "market": "FTX",
+        "symbol": "BNBUSD",
+        "price": 299.436,
+        "change1h": 0.0173,
+        "change24h": -0.0052,
+        "priceMax24h": 312,
+        "priceMin24h": 290
+    },
+    {
+        "market": "FTX",
+        "symbol": "XRPUSD",
+        "price": 0.41965,
+        "change1h": 0.0118,
+        "change24h": -0.0144,
+        "priceMax24h": 0,
+        "priceMin24h": 0
+    },
+    {
+        "market": "FTX",
+        "symbol": "SOLUSD",
+        "price": 55.03,
+        "change1h": 0.0279,
+        "change24h": -0.0027,
+        "priceMax24h": 59,
+        "priceMin24h": 52
+    },
+    {
+        "market": "FTX",
+        "symbol": "USTUSD",
+        "price": 0.0994,
+        "change1h": 0.5083,
+        "change24h": -0.3178,
+        "priceMax24h": 0,
+        "priceMin24h": 0
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "market": "Kraken",
+        "symbol": "BTCUSD",
+        "price": 29841.8,
+        "priceMax24h": 31390.0,
+        "priceMin24h": 29060.0
+    },
+    {
+        "market": "Kraken",
+        "symbol": "ETHUSD",
+        "price": 2031.66,
+        "priceMax24h": 2167.72,
+        "priceMin24h": 1976.49
+    },
+    {
+        "error:": [
+            "EQuery:Unknown asset pair"
+        ]
+    },
+    {
+        "market": "Kraken",
+        "symbol": "USDCUSD",
+        "price": 1.0,
+        "priceMax24h": 1.0,
+        "priceMin24h": 0.9901
+    },
+    {
+        "market": "Kraken",
+        "symbol": "XRPUSD",
+        "price": 0.41982,
+        "priceMax24h": 0.44816,
+        "priceMin24h": 0.40862
+    },
+    {
+        "market": "Kraken",
+        "symbol": "SOLUSD",
+        "price": 54.97,
+        "priceMax24h": 59.2,
+        "priceMin24h": 51.79
+    },
+    {
+        "error:": [
+            "EQuery:Unknown asset pair"
+        ]
+    },
+    {
+        "market": "Kraken",
+        "symbol": "USTUSD",
+        "price": 0.09812,
+        "priceMax24h": 0.17048,
+        "priceMin24h": 0.05139
+    }
+]

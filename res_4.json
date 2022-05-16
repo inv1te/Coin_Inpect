@@ -1,0 +1,50 @@
+[
+    {
+        "market": "KuCoin",
+        "symbol": "BTCUSDT",
+        "price": 29869.9,
+        "change24h": -0.0058,
+        "priceMax24h": 31494.9,
+        "priceMin24h": 29075.8
+    },
+    {
+        "market": "KuCoin",
+        "symbol": "ETHUSDT",
+        "price": 2034.02,
+        "change24h": -0.0211,
+        "priceMax24h": 2167.0,
+        "priceMin24h": 1979.13
+    },
+    {
+        "market": "KuCoin",
+        "symbol": "BNBUSDT",
+        "price": 299.644,
+        "change24h": -0.005,
+        "priceMax24h": 312.69,
+        "priceMin24h": 290.216
+    },
+    {
+        "market": "KuCoin",
+        "symbol": "USDCUSDT",
+        "price": 1.00148,
+        "change24h": 0.0002,
+        "priceMax24h": 1.00261,
+        "priceMin24h": 0.99993
+    },
+    {
+        "market": "KuCoin",
+        "symbol": "XRPUSDT",
+        "price": 0.42036,
+        "change24h": -0.0126,
+        "priceMax24h": 0.44992,
+        "priceMin24h": 0.40859
+    },
+    {
+        "market": "KuCoin",
+        "symbol": "SOLUSDT",
+        "price": 55.116,
+        "change24h": -0.0009,
+        "priceMax24h": 59.348,
+        "priceMin24h": 51.918
+    }
+]

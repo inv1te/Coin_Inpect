@@ -1,0 +1,8 @@
+binance
+coinbase -/
+FTX
+Kraken
+KuCoin
+Gate.io
+Huobi
+bitFlyer

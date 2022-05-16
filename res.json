@@ -1,0 +1,42 @@
+[
+    {
+        "market": "Binance",
+        "symbol": "BTCUSDT",
+        "price": 29865.49
+    },
+    {
+        "market": "Binance",
+        "symbol": "ETHUSDT",
+        "price": 2033.7
+    },
+    {
+        "market": "Binance",
+        "symbol": "BNBUSDT",
+        "price": 299.6
+    },
+    {
+        "market": "Binance",
+        "symbol": "USDCUSDT",
+        "price": 1.0014
+    },
+    {
+        "market": "Binance",
+        "symbol": "XRPUSDT",
+        "price": 0.4202
+    },
+    {
+        "market": "Binance",
+        "symbol": "SOLUSDT",
+        "price": 55.06
+    },
+    {
+        "market": "Binance",
+        "symbol": "BUSDUSDT",
+        "price": 1.0016
+    },
+    {
+        "market": "Binance",
+        "symbol": "USTUSDT",
+        "price": 0.2458
+    }
+]

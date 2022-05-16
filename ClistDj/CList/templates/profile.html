@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+
+<div class="container">
+    <h1>User name: {{ request.user}}</h1>
+    <h2>User's current cryptos: {{ list_cryptos }}</h2>
+    <h2>User's total networse: {{ request.user }}</h2>
+    <h2>Crypto: {{ Currencies.BTC.name }}</h2>
+</div>
+
+{% endblock %}
